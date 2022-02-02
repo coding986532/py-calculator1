@@ -1,0 +1,6 @@
+print("Welcome to calculator!")
+first_number = input("First Number:")
+second_number = input("Second Number:")
+ans1 = int(first_number) + int(second_number)
+print("The answer is: " + str(ans1) + " .")
+print("Click the SPACEBAR+ENTER to use again.")
